@@ -1,3 +1,4 @@
+<?php
 // src/Ens/JobeetBundle/DataFixtures/ORM/LoadCategoryData.php
 namespace Ens\JobeetBundle\DataFixtures\ORM;
  
@@ -40,3 +41,4 @@ class LoadCategoryData extends AbstractFixture implements OrderedFixtureInterfac
     return 1; // the order in which fixtures will be loaded
   }
 }
+?>
