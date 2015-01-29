@@ -41,4 +41,3 @@ class LoadCategoryData extends AbstractFixture implements OrderedFixtureInterfac
     return 1; // the order in which fixtures will be loaded
   }
 }
-?>

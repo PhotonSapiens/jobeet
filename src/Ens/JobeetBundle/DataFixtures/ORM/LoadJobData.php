@@ -54,4 +54,3 @@ class LoadJobData extends AbstractFixture implements OrderedFixtureInterface
     return 2; // the order in which fixtures will be loaded
   }
 }
-?>
