@@ -1,3 +1,4 @@
+<?php
 // src/Ens/JobeetBundle/DataFixtures/ORM/LoadCategoryData.php
 namespace Ens\JobeetBundle\DataFixtures\ORM;
  

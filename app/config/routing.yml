@@ -2,6 +2,10 @@ ens_jobeet:
     resource: "@EnsJobeetBundle/Resources/config/routing.yml"
     prefix:   /
 
+HelloWorld.Photon:
+    resource: "@PhotonHelloWorld/Controller/HelloWorldController.php"
+    type: annotation
+
 app:
     resource: @AppBundle/Controller/
     type:     annotation

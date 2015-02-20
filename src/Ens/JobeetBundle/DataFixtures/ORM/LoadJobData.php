@@ -1,3 +1,4 @@
+<?php
 // src/Ens/JobeetBundle/DataFixtures/ORM/LoadJobData.php
 namespace Ens\JobeetBundle\DataFixtures\ORM;
  
